@@ -1,0 +1,16 @@
+{
+  "version": "2.0.5",
+  "release_date": "2025-08-04",
+  "changelog": [
+    {
+      "title": "Version 2.0.5",
+      "details": [
+        "Unblocked open-source access for plugin development",
+        "Now supports PHP versions 7.4 to 8.3",
+        "New SMS verification app added",
+        "Database configuration check added before installation",
+        "EPS payment gateway integration added"
+      ]
+    }
+  ]
+}
